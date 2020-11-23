@@ -1,0 +1,9 @@
+C:\Users\Ernest Sanchez\source\repos\projectofinal\projectofinal\bin\Debug\projectofinal.exe.config
+C:\Users\Ernest Sanchez\source\repos\projectofinal\projectofinal\bin\Debug\projectofinal.exe
+C:\Users\Ernest Sanchez\source\repos\projectofinal\projectofinal\bin\Debug\projectofinal.pdb
+C:\Users\Ernest Sanchez\source\repos\projectofinal\projectofinal\obj\Debug\projectofinal.csprojAssemblyReference.cache
+C:\Users\Ernest Sanchez\source\repos\projectofinal\projectofinal\obj\Debug\projectofinal.Properties.Resources.resources
+C:\Users\Ernest Sanchez\source\repos\projectofinal\projectofinal\obj\Debug\projectofinal.csproj.GenerateResource.cache
+C:\Users\Ernest Sanchez\source\repos\projectofinal\projectofinal\obj\Debug\projectofinal.csproj.CoreCompileInputs.cache
+C:\Users\Ernest Sanchez\source\repos\projectofinal\projectofinal\obj\Debug\projectofinal.exe
+C:\Users\Ernest Sanchez\source\repos\projectofinal\projectofinal\obj\Debug\projectofinal.pdb
